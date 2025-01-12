@@ -95,7 +95,6 @@ wheat-disease-classification/
 ├── README.md
 ├── wheat_classification.ipynb     # The main notebook (Google Colab or Jupyter)
 ├── lb.pickle                     # Label binarizer (after training)
-├── saved_model.h5                # Trained model (optional)
 └── data/
     ├── Crown and Root Rot/
     ├── Healthy Wheat/
